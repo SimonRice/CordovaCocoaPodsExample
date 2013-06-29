@@ -1,10 +1,10 @@
 PODS:
-  - Cordova (2.8.0)
+  - Cordova (2.9.0)
 
 DEPENDENCIES:
-  - Cordova (= 2.8.0)
+  - Cordova (= 2.9.0)
 
 SPEC CHECKSUMS:
-  Cordova: c576949d305f0e9eef04e68c061ef1e49f6e5785
+  Cordova: b5c98c8e8d19956044a96f4e96e255722b55b17d
 
 COCOAPODS: 0.20.2

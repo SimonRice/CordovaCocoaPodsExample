@@ -1,5 +1,5 @@
 platform :ios, "5.0"
-CORDOVA_VERSION = "2.8.0"
+CORDOVA_VERSION = "2.9.0"
 
 pod "Cordova", CORDOVA_VERSION
 
