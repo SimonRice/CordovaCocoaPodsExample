@@ -2,7 +2,7 @@ PODS:
   - Cordova (2.9.0)
 
 DEPENDENCIES:
-  - Cordova (= 2.9.0)
+  - Cordova (~> 2.9.0)
 
 SPEC CHECKSUMS:
   Cordova: b5c98c8e8d19956044a96f4e96e255722b55b17d
